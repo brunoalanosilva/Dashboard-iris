@@ -1,0 +1,18 @@
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.sidebar-menu {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-size: 18px;
+}
+
+.contato {
+	font-size: 18px;
+}
+
+.github {
+	font-size: 18px;
+}
